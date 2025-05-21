@@ -1,0 +1,6 @@
+
+{
+  "name": "Facial Emotion Detector AI",
+  "description": "Upload an image of a face, and this app will use AI to identify the primary emotion being expressed. Discover if someone is happy, sad, surprised, and more!",
+  "requestFramePermissions": []
+}
